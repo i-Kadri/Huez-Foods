@@ -1,0 +1,241 @@
+/* barnner & nav bar styles*/
+#top{
+    background-image: url(../imge&video/Kuli\ Kuli\ image.jpg);
+    background-size: cover;
+    /* height: 100vh !important; */
+    
+    
+    background-repeat: no-repeat;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: grey;
+    font-size: 25px;
+    margin-left: 30px;
+    /* position: relative;
+    top: 70px; */
+}
+.nav-bar{
+        
+}
+
+.nav-links{
+    margin: auto 30px auto auto
+     ;
+}
+.logo{
+    height: 110px;
+    width: 200px;
+    /* margin-left: 1210px; */
+    object-fit: contain;
+}
+
+
+.hero{
+  width: 100%;
+  /* height: 100vh; */
+  padding: 100px 0;
+    display: flex;
+}
+.hero .hero-content{
+    margin: auto 0 auto auto;
+    text-align: right;
+}
+.wakeup{    
+    margin-top: 30px;
+    font-weight: lighter;
+    font-size: 55px;
+}
+.eat{
+  
+    margin-top: 30px;
+    font-weight: 900;
+    color: #77970c;
+    font-size: 65px;
+}
+.message{
+   
+    margin-top: 40px;
+    font-size: 20px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.texture{
+    margin-left: 50px;
+}
+.fresh{
+    /* margin-left: 285px; */
+    margin-bottom: 0px;
+}
+.btn1{
+    height: 98px;
+    font-size: 23px;
+    color: #fff;
+    /* padding: 30px 150px; */
+    width: 173px;
+    /* margin-left: 1050px; */
+    /*  */
+    float: right;
+    text-decoration: none;
+    border:none; 
+    background-color: transparent;
+    background-size: 170px; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../imge&video/Group\ 43.svg);
+}
+
+/*main body styles*/
+    /*kuli product styles*/
+.main-body{
+    background-image: url(../imge&video/isai-dzib-TysS85XkjgI-unsplash\ 1.png);
+    background-color: rgba(0, 0, 0, 0.432);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pro{
+    padding: 40px;
+    color: #fff;
+    margin: auto;
+    /* margin-left: 32%; */
+    margin-bottom: 50px;
+}
+.kuli{
+    
+    top: 920px;
+    left: 880px;
+    display: inline;
+}
+.naira{
+    /* margin-left: 250px; */
+    font-size: 25px;
+}
+.display-4{
+    text-shadow: 4px 0px 2px yellow;
+    /* margin-left: -80px; */
+}
+.vitamins{
+    font-size: 30px;
+    /* margin-left: -220px; */
+}
+.img-kuli{
+    height: 200px;
+    width: 300px;
+    /* margin-left: -260px; */
+    margin-top: -40px;
+    object-fit: contain;
+}
+    /*garri product styles*/
+.garri{
+    
+    left: 200px;
+    top: 1500px;
+}
+.img-fluid-garri{
+    /* margin-left: 680px; */
+    
+}
+.naira-garri{
+    /* margin-left: -80px; */
+}
+.vitamins-garri{
+    font-size: 30px;
+    /* margin-left: -80px; */
+}
+#garri{
+    /* margin-left: 630px; */
+    margin-top: 70px;
+    padding: 0px;
+}
+.garri-button{
+    height: 400px;
+    width: 550px;
+    /* margin-top: -380px; */
+    /* margin-left: -175px; */
+    object-fit: contain;
+}
+/*tombrown prduct styles*/
+.tom{
+    
+    top: 2180px;
+    left: 900px;
+}
+.img-tom{
+    height: 650px;
+    width: 380px;
+    object-fit: contain;
+    /* margin-left: -480px; */
+}
+.naira-tom{
+    /* margin-left: 250px; */
+}
+.tom-brown{
+    /* margin-left: -150px; */
+}
+.vitamins-tom{
+    font-size: 30px;
+    /* margin-left: -220px; */
+}
+.btn-tom{
+    height: 200px;
+    width: 300px;
+    /* margin-left: -260px; */
+    margin-top: -40px;
+    object-fit: contain;
+}
+/*footer styles*/
+footer{
+    background-color: black;
+}
+.foot{
+    margin-left: 10px;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+.lead{
+    margin-bottom: 0px;
+    /* margin-left: 600px; */
+    font-weight: bold;
+}
+.product-img{
+    /* margin: 100px 0; */
+    padding: 0px;
+    height: 100%;
+    /* width: 380px; */
+    object-fit: cover;
+    /* margin-left:a; */
+
+    
+}
+.img-left{
+    margin: auto ;
+    margin-right: 0;
+    /* display: none; */
+}
+
+.flxr{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+}
+
+.buy-btn{
+    background-image: url(../imge&video/buybtn.svg);
+    height: 98px;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    /* padding: 30px 150px; */
+    width: 173px;
+    /* margin-left: 1050px; */
+    /*  */
+    float: right;
+    text-decoration: none;
+    border:none; 
+    background-color: transparent;
+    /* background-size: 170px;  */
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto 0 auto auto;
+}
